@@ -170,3 +170,4 @@ Reference
 ------------------------------------------
 - http://pcengines.info/forums/?page=post&id=E25612E9-84F0-4DCF-A876-1E92FD1D065C
 - https://help.ubuntu.com/community/SerialConsoleHowto
+- https://www.hiroom2.com/2016/06/06/ubuntu-16-04-grub2-and-linux-with-serial-console/
